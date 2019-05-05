@@ -1,9 +1,6 @@
 USE bamazon_db;
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Peach Baby Food", "Food", 1.39, 71);
-
-INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("iPhone 7+", "Phones", 599.99, 3);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
@@ -29,6 +26,9 @@ VALUES ("Cracking the Coding Interview", "Books", 24.99, 150);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Personal Whiteboard", "Misc", 27.99, 50);
+
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("Peach Baby Food", "Food", 1.39, 71);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Peach Baby Food", "Food", 1.39, 71);
