@@ -12,7 +12,7 @@ product_name VARCHAR(100) NULL,
 
 department_name VARCHAR(100) NULL,
 
-price DECIMAL(6,2) NULL,
+price DECIMAL(5,2) ,
 
 stock_quantity INTEGER NULL,
 

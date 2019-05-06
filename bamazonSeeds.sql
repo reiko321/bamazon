@@ -29,6 +29,3 @@ VALUES ("Personal Whiteboard", "Misc", 27.99, 50);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Peach Baby Food", "Food", 1.39, 71);
-
-INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Peach Baby Food", "Food", 1.39, 71);
