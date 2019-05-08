@@ -3,7 +3,8 @@
 
 Bamazon NodeJS app:
 
-- Create mySQL DB utilizing schema and seeds.
+- Create mySQL DB utilizing schema and seeds. 
+- Link DB info to bamazoncustomer.js
 - package.JSON lists npm packages needed.
 - execute program in NodeJS (screenshots folder for reference as needed)
 
